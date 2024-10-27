@@ -1,4 +1,4 @@
-## Olà :pencil:
+## Olá :pencil:
 
 
 <picture align="center">
@@ -21,7 +21,7 @@ Eu sou o Paulo Junior, sou estudande de Analises e Desenvolvimento de Sistema e 
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 
-<h3 align="left">Connect with me!</h3>
+<h3 align="left">Entre em Contato Comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](paulosjrr@gmail.com.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/paulo-silva-junior-76728032b/)
